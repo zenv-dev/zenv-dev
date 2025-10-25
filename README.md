@@ -1,6 +1,6 @@
 # Hey, I'm Vlad 👋
 
-Frontend Developer with 10 years of experience, specializing in **Vue.js**.  
+Frontend Developer with 10 years of experience in web development, specializing in **Vue.js**.  
 I build web applications and adapt quickly to different tech stacks.
 
 ## 🛠️ Tech Stack
