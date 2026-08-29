@@ -7,7 +7,7 @@ I work mainly with TypeScript across Angular, React/Next.js, Vue/Nuxt, and Svelt
 ## Selected work
 
 - [Portfolio](https://zenv.space)
-- [Zentick](https://github.com/zenv-dev/zentick) — a background-safe Pomodoro timer built with Vue 3 and TypeScript
+- [Zentick](https://github.com/zenv-dev/zentick) - a background-safe Pomodoro timer built with Vue 3 and TypeScript
 
 ## 📫 Contact
 
