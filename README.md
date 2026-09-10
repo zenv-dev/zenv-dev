@@ -2,12 +2,10 @@
 
 Senior Frontend / Product Engineer with 10+ years of commercial experience building web products.
 
-I work mainly with TypeScript across Angular, React/Next.js, Vue/Nuxt, and Svelte. My focus is data-heavy UI, frontend architecture, complex product workflows, and real-time video.
+I work mainly with TypeScript across Angular, React/Next.js, Vue/Nuxt, and Svelte/SvelteKit. My focus is data-heavy UI, frontend architecture, complex product workflows, and real-time video.
 
-## Selected work
-
-- [Portfolio](https://zenv.space)
-- [Zentick](https://github.com/zenv-dev/zentick) - a background-safe Pomodoro timer built with Vue 3 and TypeScript
+## Portfolio
+[zenv.space](https://zenv.space)
 
 ## 📫 Contact
 
